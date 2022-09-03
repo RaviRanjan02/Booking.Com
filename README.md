@@ -4,7 +4,7 @@
 
 ## Team members:
 1. Rishi Ranjan Kumar (Team Lead)
-2. Ravi Ranjan Kumar
+2. Ravi Ranjan
 3. Rushikesh Parte
 4. Ashish Kumar Diwedi
 5. Swati Saulnaki
@@ -79,7 +79,7 @@ png)
 
 <br>
 
-  ⁍ Ravi Ranjan Kumar:
+  ⁍ Ravi Ranjan :
 
 
     Contribution:
