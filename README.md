@@ -1,7 +1,5 @@
 # Booking.com - Clone
 
-<img src="https://lh3.googleusercontent.com/zyVawGkrNqTVDv1h2qrPcFty0ARE-tkuVadf3wo7m0LwLJuHWbHxQZsboLRX9q6rLkmHzA=s170">
-
 ## Team members:
 1. Rishi Ranjan Kumar (Team Lead)
 2. Ravi Ranjan
@@ -88,6 +86,7 @@ png)
     2. creation of see availability page
     3. provide deatails of hotels page
     4. Sorting and filtering through hotels data
+    5. created allhotels data
 
 <br>
 
