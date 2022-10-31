@@ -1,6 +1,6 @@
 # Booking.com - Clone
 
-## Team members:
+## Team Members:
 1. Rishi Ranjan Kumar (Team Lead)
 2. Ravi Ranjan
 3. Rushikesh Parte
@@ -17,7 +17,7 @@ The project has been completed within the duration of 5 days. Each of us had sha
 
 **Link of our deployed project**: https://cluttered-stranger-7385.vercel.app/
 
-## Tech Stack and features
+## Tech Stack
 - React
 - Redux
 - Redux Thunks
